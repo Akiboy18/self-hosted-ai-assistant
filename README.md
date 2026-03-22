@@ -440,14 +440,15 @@ To build a **personal AI assistant** that:
 ---
 
 ## 📸 Screenshots
-
-(Add UI screenshots here)
-
----
-
-## 📜 License
-
-MIT License
+I created a custom AI assistant "Sameeksha" according to my preferences and these are some of the glimpses of its working (Dolphin-Mistral + AnythingLLM)
+<p align="center">
+  <img src="images/uitwo.png" width="590"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="images/uione.png" width="590"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
