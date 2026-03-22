@@ -385,7 +385,7 @@ PARAMETER temperature <value>
 SYSTEM <your personality instructions>
 ```
 
-### **Chitti** - The AI Assistant inspired from the Tamil science fiction action drama __Endhiran (2010)__ - Behaviour Modelfile:
+### **Chitti** - An AI Assistant inspired from the Tamil science fiction action drama __Endhiran (2010)__ - Behaviour Modelfile:
 <p align="center">
   <img src="images/endhiran.png" width="670"/>
 
