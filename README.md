@@ -1,7 +1,27 @@
 # self-hosted-ai-assistant
+
+
+
+
+<p align="center">
+  <img src="images/ollama.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/anythingllm.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/openwebui.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/meta.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/docker.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/mistral.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-Memory-green)
 ![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Interface-orange)
+
 
 A complete guide to building a **local AI assistant stack** using:
 
