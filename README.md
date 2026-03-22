@@ -3,24 +3,30 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="images/ollama.png" width="70"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/anythingllm.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/openwebui.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/metaaa.png" width="70"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="images/docker.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/mistrall.png" width="70"/>
+  <img src="images/deepseek.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/metaaa.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/anythingllm.png" width="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/mistralll.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-Memory-green)
 ![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Interface-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
+![Llama3](https://img.shields.io/badge/Llama3-Model-purple)
+![Dolphin](https://img.shields.io/badge/Dolphin--Mistral-Model-ff69b4)
+![DeepSeek-Coder](https://img.shields.io/badge/DeepSeek--Coder-Model-red)
 
 
 A complete guide to building a **local AI assistant stack** using:
