@@ -10,11 +10,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="images/openwebui.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/meta.png" width="70"/>
+  <img src="images/metaaa.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
   <img src="images/docker.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/mistral.png" width="70"/>
+  <img src="images/mistrall.png" width="70"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
